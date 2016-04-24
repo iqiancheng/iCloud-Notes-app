@@ -1,0 +1,16 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "description": "便签 Chrome App 对网页版便签做一些界面调整及生成Chrome 桌面 APP, 更方便使用",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png"
+   },
+   "name": "便签",
+   "permissions": [ "notifications", "webview", "clipboardRead", "clipboardWrite", "contextMenus", "fileSystem", "geolocation", "storage", "tts", "unlimitedStorage" ],
+   "short_name": "便签",
+   "version": "1.0.0"
+}

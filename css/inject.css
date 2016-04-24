@@ -1,0 +1,61 @@
+html, body{
+ height:740px !important;
+ max-height: 740px !important; 
+ min-height: 740px !important;
+ width:962px !important;
+ overflow:hidden   !important;
+ overflow-x:hidden !important;
+ overflow-y:hidden !important;
+}
+
+.chatPanel .rightOpBtn {
+ left: -14px !important;
+}
+
+*{
+ border-radius:0 !important;
+ -webkit-border-radius:0 !important;
+}
+
+.chatPanel .chatListColumn .avatar{
+ border-radius:21px !important;
+ border:0px !important;
+}
+
+#vernierContainer,
+.footer{
+  display:none;
+}
+
+.chatPanel .chat{
+margin-left:-10px !important;
+}
+
+.chatPanel {
+  padding:0 !important;
+  margin:0 !important;
+}
+.chatPanel .myProfile img{
+  width: 30px !important;
+  height: 30px !important;
+  top: 6px !important;
+}
+
+.chatPanel .myProfile .info{
+  margin-left: 54px !important;
+}
+
+.chatPanel .myProfile .avatar{
+  background:none !important;
+}
+
+.slidePic
+.dialog,
+.complexDialog{
+top: 40px !important;
+}
+
+.chatPanel .chatOperator{
+ height:65px !important;
+ bottom: 10px !important;
+}

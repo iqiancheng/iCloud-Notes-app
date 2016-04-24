@@ -1,0 +1,46 @@
+html, body, webview{
+margin: 0;
+padding: 0;
+width: 962px;
+height: 623px;
+overflow:hidden;
+position:relative;
+}
+
+#title{
+height: 40px;
+position:absolute;
+top:0;
+z-index: 100;
+width: 650px;
+right: 0px;
+-webkit-app-region: drag;
+}
+
+#title a{
+text-decoration:none;
+position:absolute;
+color: #eee;
+top: 13px;
+font-size:11px;
+width: 17px;
+height: 13px;
+line-height: 13px;
+text-align: center;
+cursor: pointer;
+border-radius: 8px 8px 5px 5px;
+box-shadow: 0 1px 1px #000;
+ -webkit-app-region: no-drag;
+}
+
+#title a:hover{
+background:#777;
+}
+
+#min{
+ right: 13px;
+}
+
+#dmz{
+ right: 41px;
+}
