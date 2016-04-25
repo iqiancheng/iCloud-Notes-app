@@ -6,8 +6,9 @@
 ![](publish/preview20160425080800.png)
 
 #Download
-[Chrome Web Store][store]
+[Chrome Web Store][store] | [本地下载][releasesdownload1]
 
 
 [store]: https://chrome.google.com/webstore/detail/%E4%BE%BF%E7%AD%BE-notes/lfaipgohagcbmfjhfokjdhcfcpfjonmg?utm_source=chrome-ntp-icon
+[releasesdownload1]: https://github.com/iqiancheng/iCloud-Notes-app/releases/download/1.0.0/Notes_v1.0.0.crx
 
