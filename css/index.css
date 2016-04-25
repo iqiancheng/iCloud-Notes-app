@@ -12,7 +12,7 @@ height: 40px;
 position:absolute;
 top:0;
 z-index: 100;
-width: 650px;
+width: 180px;
 right: 0px;
 -webkit-app-region: drag;
 }
