@@ -9,6 +9,7 @@
 
 #Download & Install
 [Chrome Web Store][store] | [本地下载][releasesdownload1]
+
 天朝子民不能访问谷歌商店的请点后面的``本地下载``
 
 [store]: https://chrome.google.com/webstore/detail/%E4%BE%BF%E7%AD%BE-notes/lfaipgohagcbmfjhfokjdhcfcpfjonmg?utm_source=chrome-ntp-icon
